@@ -1,6 +1,6 @@
 Step 1: Prerequisites
 
-You need to have Python installed on your computer. You can download it from the 
+You need to have Python installed on your computer( works well with python 3.9 and 3.11.1 ). You can download it from the 
 official Python website: https://www.python.org/downloads/.
 Step 2: Download and Install Chrome
 
